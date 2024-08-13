@@ -1,4 +1,4 @@
-heck if the correct number of arguments are provided
+#check if the correct number of arguments are provided
 if [ "$#" -ne 2 ]; then
 	    echo "Error: Two arguments required - a file path and a write string"
 	        exit 1
